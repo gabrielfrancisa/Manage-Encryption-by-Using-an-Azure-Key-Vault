@@ -19,13 +19,13 @@ In this project, we will secure an Azure storage account by using Azure Key Vaul
 >> Create an Azure Key Vault by using the values in the following table. For any property that is not specified, use the default value.
 
 Property -----------  Value
-Resource group:	AZ900RGlod**********
-Key vault name:	KeyVaut......*58
-Region	East US 2
-Pricing tier:	Standard
-Permission model:	Vault access policy
-Azure Disk Encryption for volume encryption	selected
-Enable public access	selected
+1. Resource group:	AZ900RGlod**********
+2. Key vault name:	KeyVaut......*58
+3. Region	East US 2
+4. Pricing tier:	Standard
+5. Permission model:	Vault access policy
+6. Azure Disk Encryption for volume encryption	selected
+7. Enable public access	selected
 
 >>>An Azure Key Vault can be used to encrypt keys and store small secrets and passwords that are used in Azure applications-including hybrid applications.
 
