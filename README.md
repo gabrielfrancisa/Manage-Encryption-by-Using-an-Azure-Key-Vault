@@ -53,12 +53,13 @@ Enable public access	selected
 
 
 ## 3. Configure a storage account to use a customer-managed encryption key
-Configure an existing storage account named sa55552808 to use the encryption key named SAKey-55552808 that is stored in the KeyVault55552808 Key Vault.
-Expand this hint for guidance on configuring a storage account to use an encryption key in a Key Vault.
-By default, the data in a storage account is encrypted by using Microsoft-managed encryption keys. 
-When encrypting Azure blobs and files, you can choose to use your own key rather than the Microsoft-managed key; however, tables and queues are always encrypted by using Microsoft-managed keys.
+>>Configure an existing storage account named sa55552808 to use the encryption key named SAKey-55552808 that is stored in the KeyVault55552808 Key Vault.
 
-Azure Key Vault is a prerequisite for using your own keys to encrypt Azure blobs and files.
+>>By default, the data in a storage account is encrypted by using Microsoft-managed encryption keys. 
+
+>>When encrypting Azure blobs and files, you can choose to use your own key rather than the Microsoft-managed key; however, tables and queues are always encrypted by using Microsoft-managed keys.
+
+>>Azure Key Vault is a prerequisite for using your own keys to encrypt Azure blobs and files.
 
 ## 4. Summary
 Congratulations
