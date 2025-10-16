@@ -1,7 +1,7 @@
 # Manage-Encryption-by-Using-an-Azure-Key-Vault
 As an Administrator for an organisation that needs to manage its Azure environment.
 
-You have accomplished the following:
+At the end of the project, we will accomplish the following:
 1. Created and configured an Azure Key Vault.
 2. Created a customer-managed encryption key.
 3. Configured a storage account to use a customer-managed encryption key.
